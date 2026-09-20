@@ -1,0 +1,10 @@
+# Ignorar archivos de variables de entorno (secretos)
+.env
+*.env
+
+# Ignorar configuraciones locales del editor
+.vscode/
+
+# Ignorar archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
